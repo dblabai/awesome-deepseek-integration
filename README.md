@@ -183,11 +183,6 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> is an AI coding tool with context management. It helps developers manage source code context and craft prompts for complex coding tasks on existing codebases.</td>
     </tr>
-    <tr>
-        <td> <img src="https://dblab.ai/logo.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://dblab.ai">dblab.ai</a> </td>
-        <td> <a href="https://dblab.ai">dblab.ai</a> is a cross-platform AI database management tool that is compatible with Windows, macOS and Linux systems, and supports multiple databases such as MySQL, PostgreSQL, Oracle, MariaDB, Redis, SQLite, etc. It integrates AI assistant, visual data query, database/table management design, data migration, import/export, data simulation and code generation, etc., to help developers and data analysts manage data efficiently and improve work efficiency.</td>
-    </tr>
     
 </table>
 
