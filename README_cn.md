@@ -141,6 +141,11 @@
         <td> <a href="https://github.com/alecm20/story-flicks">Story-Flicks</a></td>
         <td>通过一句话即可快速生成高清故事短视频，支持 DeepSeek 等模型。</td>
     </tr>
+    <tr>
+        <td> <img src="https://dblab.ai/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://dblab.ai">dblab.ai</a> </td>
+        <td> <a href="https://dblab.ai">dblab.ai</a> 是一款跨平台的AI数据库管理工具，兼容 Windows、macOS 和 Linux 系统，支持 MySQL、PostgreSQL、Oracle、MariaDB、Redis、SQLite 等多种数据库。它集成了 AI 助手、可视化数据查询、数据库/表管理设计、数据迁移、导入/导出、数据模拟及代码生成等功能，帮助开发者和数据分析师高效管理数据，提升工作效率。</td>
+    </tr>
 </table>
 
 ### AI Agent 框架
