@@ -138,6 +138,11 @@ DeepSeek APIを人気のソフトウェアに統合します。APIキーを取�
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
         <td> <a href="https://agenticflow.ai/">AgenticFlow</a>は、マーケターがAIエージェントのためのエージェンティックAIワークフローを構築するためのノーコードプラットフォームであり、数百の毎日のアプリをツールとして使用します。</td>
     </tr>
+    <tr>
+        <td> <img src="https://dblab.ai/logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://dblab.ai">dblab.ai</a> </td>
+        <td> <a href="https://dblab.ai">dblab.ai</a> は、Windows、macOS、Linux システムと互換性があり、MySQL、PostgreSQL、Oracle、MariaDB、Redis、SQLite などの複数のデータベースをサポートするクロスプラットフォーム AI データベース管理ツールです。AI アシスタント、ビジュアル データ クエリ、データベース/テーブル管理設計、データ移行、インポート/エクスポート、データ シミュレーション、コード生成などを統合し、開発者やデータ アナリストがデータを効率的に管理し、作業効率を向上させるのに役立ちます。</td>
+    </tr>
 </table>
 
 ### AIエージェントフレームワーク
